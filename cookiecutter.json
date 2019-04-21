@@ -1,0 +1,10 @@
+{
+  "repo_name": "my-python-cli",
+  "package_name": "package_name",
+  "description": "Enter a description for your project",
+  "cli_name": "cli",
+  "github_user": "git_user",
+  "author_name": "Pete Moss",
+  "author_email": "somewhere@gmail.com",
+  "year": "2019"
+}
