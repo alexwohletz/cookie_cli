@@ -8,4 +8,4 @@ To create a new project run the following commands. This assumes that you have
 
     $ mkvirtualenv my-project
     $ pip install cookiecutter
-    $ cookiecutter gh:baleion/cookie_cli
+    $ cookiecutter gh:alexwohletz/cookie_cli
